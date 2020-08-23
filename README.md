@@ -1,6 +1,6 @@
-# atata
+# FinTech-Mobile-UI
 
-A new Flutter application.
+This is a FinTech Example UI implementation with Flutter.
 
 ## Getting Started
 
